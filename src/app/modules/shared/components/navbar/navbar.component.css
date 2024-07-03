@@ -19,7 +19,7 @@
   /* Dispositivos mas grandes (ej: computadora)*/
   @media (min-width:700px){
     mat-toolbar{
-      background-color: blueviolet;
+      background-color:black
     }
 
     #menuSecciones{
