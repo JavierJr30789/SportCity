@@ -12,6 +12,7 @@ import {MatMenuModule} from '@angular/material/menu';
 import { AppRoutingModule } from 'src/app/app-routing.module';
 
 @NgModule({
+  //Componentes LOCALES del modulo
   declarations: [
     FooterComponent,
     NavbarComponent
